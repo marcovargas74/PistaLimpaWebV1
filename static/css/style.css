@@ -94,9 +94,10 @@ body {
     #emergency  {margin-left: 10%;}
 	#header 	{display: none;}
 	#social 	{display: none;}
-	#sidebar	{display: none;}
-	#traffic	{display: none;}
+	#sidebar	{margin-left: 10%;}
+	#traffic	{margin-left: 10%;}
 	#news		{display: none;}
+	#advice 	{display: none;}
 
 	.footer {
 		font-size: 16px;
