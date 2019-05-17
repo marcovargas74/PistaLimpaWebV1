@@ -3,6 +3,8 @@
 
 body {
 	font-family: 'Open Sans', sans-serif;
+	background-color: #ececec;
+}
 }
 
 .container {
@@ -42,8 +44,9 @@ body {
 }
 
 #header h1 {
-	font-size: 9rem;
+	font-size: 10rem;
 	color: #D0021B;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;	
 }
 
 #header p {
@@ -81,6 +84,10 @@ body {
 	text-align: center;
 }
 
+#maps {
+	text-align: center;
+	
+}
 
 @media screen and (min-width: 0px) and (max-width: 600px) {
 
@@ -98,6 +105,7 @@ body {
 	#traffic	{margin-left: 10%;}
 	#news		{display: none;}
 	#advice 	{display: none;}
+	#maps		{display: none;}
 
 	.footer {
 		font-size: 16px;
