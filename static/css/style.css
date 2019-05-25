@@ -89,6 +89,11 @@ body {
 	
 }
 
+#temps {
+	text-align: center;
+	
+}
+
 @media screen and (min-width: 0px) and (max-width: 600px) {
 
 	#logo {
@@ -106,6 +111,7 @@ body {
 	#news		{display: none;}
 	#advice 	{display: none;}
 	#maps		{display: none;}
+	#temps	    {margin-left: 10%;}
 
 	.footer {
 		font-size: 16px;
